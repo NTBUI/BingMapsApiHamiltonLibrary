@@ -10,4 +10,6 @@ This is what website looks like:
 ![image](https://github.com/NTBUI/BingMapsApiHamiltonLibrary/assets/126556075/e25f846c-e3b3-4c06-8274-eb273c0382d3)
 
 Turn by turn direction:
+
+
 ![image](https://github.com/NTBUI/BingMapsApiHamiltonLibrary/assets/126556075/6c69e1cb-bf97-4c30-8079-be3e9e859698)
